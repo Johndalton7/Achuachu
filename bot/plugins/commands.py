@@ -56,7 +56,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '💢JOIN CHANNEL 💢', url="https://t.me/MFMOVIES3"
                                 )
                         ]
                     ]
@@ -75,7 +75,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '💢 JOIN CHANNEL 💢', url="https://t.me/MFMOVIES3"
                                 )
                         ]
                     ]
