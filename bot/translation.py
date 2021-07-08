@@ -24,7 +24,7 @@ NB : നിങ്ങൾക്കും ഇതുപോലെ ഒരു Bot വ�
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/cw_perfect">contact📲</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/Johndalton_TG">contact📲</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
