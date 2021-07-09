@@ -13,7 +13,7 @@ db = Database()
 
 @Client.on_message(filters.command(["start"]) & filters.private, group=1)
 async def start(bot, update):
-    update_channel = FORCESUB_CHANNEL
+    update_channel = "@MFMOVIES3"
     if update_channel:
         try:
             user = await bot.get_chat_member(update_channel, update.chat.id)
@@ -25,7 +25,7 @@ async def start(bot, update):
             await update.reply_text(
                 text="**Join My Updates Channel to use ME 😎 🤭**",
                 reply_markup=InlineKeyboardMarkup([
-                    [ InlineKeyboardButton(text="Join My Updates Channel", url=f"https://t.me/{update_channel}")]
+                    [ InlineKeyboardButton(text="Join My Updates Channel", url=f"https://t.me/MFMOVIES3")]
               ])
             )
             return
